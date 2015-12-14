@@ -1,3 +1,8 @@
+The plots dev files and R code are on this repo, the file expdata_plotting1.R contains the code to get and clean the data from the raw form to tidy, necessary for this project plotting.
+
+It folow below the project instructions:
+
+
 ## Introduction
 
 This assignment uses data from
